@@ -1,2 +1,2 @@
 # JFS_LandingPage
-lading page da empresa da minha mae
+landing page da empresa da minha mae
